@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3b9020e83856e50e",
+        "id": "71793e0db168daf1",
         "type": "tabs",
         "children": [
           {
-            "id": "965e63d3af4162c0",
+            "id": "a4665df9fc42af5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Vítejte.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-10-31 12.35.32.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Vítejte"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-31 12.35.32.excalidraw"
             }
           }
         ]
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vítejte.md",
+                "file": "Excalidraw/Drawing 2026-10-31 12.35.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vítejte.md",
+                "file": "Excalidraw/Drawing 2026-10-31 12.35.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vítejte.md",
+                "file": "Excalidraw/Drawing 2026-10-31 12.35.32.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -178,6 +176,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "11d7ac037b8650b9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
             }
           }
         ],
@@ -200,12 +208,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cb2ce2e44f1013e",
+  "active": "3ca7df943039a16c",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-10-31 12.35.32.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-31 12.37.44.excalidraw.md",
     "Bez názvu.canvas",
+    "Excalidraw",
+    "vytvořte odkaz.md",
     "Vítejte.md",
     "Bez názvu.base",
-    "Bez názvu 1.canvas",
-    "vytvořte odkaz.md"
+    "Bez názvu 1.canvas"
   ]
 }
